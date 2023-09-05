@@ -10,7 +10,7 @@ I am a professionally trained pharmacist who has taken a deep dive into the worl
 
 Skills 🚀
 Languages: Python, SQL 
-Tools & Technologies: Pandas, NumPy, Scikit-learn, TensorFlow, Jupyter Notebook, Tableau , Excel , SPSS
+Tools & Technologies: Pandas, NumPy, Scikit-learn, Jupyter Notebook, Tableau , Excel , SPSS
 Statistics: Hypothesis Testing, A/B Testing, Regression Analysis
 My Journey 🛤
 While my initial journey began in the field of pharmacy, my insatiable curiosity led me to the world of data. I've always been fascinated by the power of data and its potential in healthcare. I spent countless hours teaching myself data analysis and data science techniques. Today, I strive to bridge the gap between healthcare and technology, aiming to make healthcare more data-driven and efficient.
@@ -28,5 +28,7 @@ More of my work can be found in my repositories. Each project I undertake is an 
 Connect with Me 🌐
 Feel free to reach out to me if you're interested in healthcare, data science, or a blend of both!
 
-LinkedIn: Abdulrahman Walid
+LinkedIn: www.linkedin.com/in/abdulrahman-w-37118b1a4
+
+
 Email: abdulrahmanwalid1999@gmail.com
